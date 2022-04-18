@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week_1/week_1.csproj",
-      "projectName": "week_1",
-      "projectPath": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week_1/week_1.csproj",
+      "projectUniqueName": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/Programming with Classes 210.csproj",
+      "projectName": "Programming with Classes 210",
+      "projectPath": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/Programming with Classes 210.csproj",
       "packagesPath": "/Users/kevincastro/.nuget/packages/",
-      "outputPath": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week_1/obj/",
+      "outputPath": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kevincastro/.nuget/NuGet/NuGet.Config"
