@@ -1,0 +1,15 @@
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/soloprep_three/bin/Debug/net6.0/soloprep_three
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/soloprep_three/bin/Debug/net6.0/soloprep_three.deps.json
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/soloprep_three/bin/Debug/net6.0/soloprep_three.runtimeconfig.json
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/soloprep_three/bin/Debug/net6.0/soloprep_three.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/soloprep_three/bin/Debug/net6.0/soloprep_three.pdb
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/soloprep_three/obj/Debug/net6.0/soloprep_three.csproj.AssemblyReference.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/soloprep_three/obj/Debug/net6.0/soloprep_three.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/soloprep_three/obj/Debug/net6.0/soloprep_three.AssemblyInfoInputs.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/soloprep_three/obj/Debug/net6.0/soloprep_three.AssemblyInfo.cs
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/soloprep_three/obj/Debug/net6.0/soloprep_three.csproj.CoreCompileInputs.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/soloprep_three/obj/Debug/net6.0/soloprep_three.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/soloprep_three/obj/Debug/net6.0/refint/soloprep_three.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/soloprep_three/obj/Debug/net6.0/soloprep_three.pdb
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/soloprep_three/obj/Debug/net6.0/soloprep_three.genruntimeconfig.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/soloprep_three/obj/Debug/net6.0/ref/soloprep_three.dll
