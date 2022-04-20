@@ -1,0 +1,15 @@
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/checkpoint_weekOne/bin/Debug/net6.0/checkpoint_weekOne
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/checkpoint_weekOne/bin/Debug/net6.0/checkpoint_weekOne.deps.json
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/checkpoint_weekOne/bin/Debug/net6.0/checkpoint_weekOne.runtimeconfig.json
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/checkpoint_weekOne/bin/Debug/net6.0/checkpoint_weekOne.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/checkpoint_weekOne/bin/Debug/net6.0/checkpoint_weekOne.pdb
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/checkpoint_weekOne/obj/Debug/net6.0/checkpoint_weekOne.csproj.AssemblyReference.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/checkpoint_weekOne/obj/Debug/net6.0/checkpoint_weekOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/checkpoint_weekOne/obj/Debug/net6.0/checkpoint_weekOne.AssemblyInfoInputs.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/checkpoint_weekOne/obj/Debug/net6.0/checkpoint_weekOne.AssemblyInfo.cs
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/checkpoint_weekOne/obj/Debug/net6.0/checkpoint_weekOne.csproj.CoreCompileInputs.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/checkpoint_weekOne/obj/Debug/net6.0/checkpoint_weekOne.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/checkpoint_weekOne/obj/Debug/net6.0/refint/checkpoint_weekOne.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/checkpoint_weekOne/obj/Debug/net6.0/checkpoint_weekOne.pdb
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/checkpoint_weekOne/obj/Debug/net6.0/checkpoint_weekOne.genruntimeconfig.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/checkpoint_weekOne/obj/Debug/net6.0/ref/checkpoint_weekOne.dll

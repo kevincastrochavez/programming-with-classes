@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/first_test/Programming with Classes 210.csproj",
-      "projectName": "Programming with Classes 210",
-      "projectPath": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/first_test/Programming with Classes 210.csproj",
+      "projectUniqueName": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/checkpoint_weekOne/checkpoint_weekOne.csproj",
+      "projectName": "checkpoint_weekOne",
+      "projectPath": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/checkpoint_weekOne/checkpoint_weekOne.csproj",
       "packagesPath": "/Users/kevincastro/.nuget/packages/",
-      "outputPath": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/first_test/obj/",
+      "outputPath": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/checkpoint_weekOne/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kevincastro/.nuget/NuGet/NuGet.Config"
