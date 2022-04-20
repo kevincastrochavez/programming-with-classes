@@ -17,7 +17,10 @@ if (percentage >= 90) {
     letter = "F";
 }
 
-if (percentage % 10 >= 7) {
+
+if (letter == "A" || letter == "F") {
+    letter = letter;
+} else if (percentage % 10 >= 7) {
     letter = $"{letter}{"+"}";
 } else if (percentage % 10 <= 3) {
     letter = $"{letter}{"-"}";
