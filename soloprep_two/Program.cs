@@ -17,6 +17,12 @@ if (percentage >= 90) {
     letter = "F";
 }
 
+if (percentage % 10 >= 7) {
+    letter = $"{letter}{"+"}";
+} else if (percentage % 10 <= 3) {
+    letter = $"{letter}{"-"}";
+}
+
 Console.WriteLine($"You got a {letter}");
 
 if (percentage >= 70) {
