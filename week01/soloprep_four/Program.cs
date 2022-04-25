@@ -44,6 +44,7 @@ foreach (int item in numbers) {
 }
 
 float average = sum / listCount;
+numbers.Sort();
 
 for (int i = 1; i < numbers.Count; i++) {
     if(numbers[i] < smallestPositiveNumber && numbers[i] > 0){
@@ -55,3 +56,8 @@ Console.WriteLine($"The sum is {sum}");
 Console.WriteLine($"The average is {average}");
 Console.WriteLine($"The largest number is {largestNumber}");
 Console.WriteLine($"The smallest positive number is {smallestPositiveNumber}");
+Console.WriteLine("");
+Console.WriteLine("The sorted list is:");
+foreach (int item in numbers) {
+    Console.WriteLine(item);
+}
