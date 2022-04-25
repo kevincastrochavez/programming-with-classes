@@ -1,0 +1,15 @@
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quiz01/bin/Debug/net6.0/quiz01
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quiz01/bin/Debug/net6.0/quiz01.deps.json
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quiz01/bin/Debug/net6.0/quiz01.runtimeconfig.json
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quiz01/bin/Debug/net6.0/quiz01.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quiz01/bin/Debug/net6.0/quiz01.pdb
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quiz01/obj/Debug/net6.0/quiz01.csproj.AssemblyReference.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quiz01/obj/Debug/net6.0/quiz01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quiz01/obj/Debug/net6.0/quiz01.AssemblyInfoInputs.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quiz01/obj/Debug/net6.0/quiz01.AssemblyInfo.cs
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quiz01/obj/Debug/net6.0/quiz01.csproj.CoreCompileInputs.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quiz01/obj/Debug/net6.0/quiz01.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quiz01/obj/Debug/net6.0/refint/quiz01.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quiz01/obj/Debug/net6.0/quiz01.pdb
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quiz01/obj/Debug/net6.0/quiz01.genruntimeconfig.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quiz01/obj/Debug/net6.0/ref/quiz01.dll
