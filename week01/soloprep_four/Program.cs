@@ -36,13 +36,22 @@ while (number != 0) {
 int sum = 0;
 int listCount = numbers.Count;
 int largestNumber = numbers.Max();
+int smallestPositiveNumber = numbers[0];
+Console.WriteLine(smallestPositiveNumber);
 
 foreach (int item in numbers) {
     sum += item;
 }
 
-int average = sum / listCount;
+float average = sum / listCount;
+
+for (int i = 1; i < numbers.Count; i++) {
+    if(numbers[i] < smallestPositiveNumber && numbers[i] > 0){
+        smallestPositiveNumber = numbers[i];   
+    }
+}
 
 Console.WriteLine($"The sum is {sum}");
 Console.WriteLine($"The average is {average}");
 Console.WriteLine($"The largest number is {largestNumber}");
+Console.WriteLine($"The smallest positive number is {smallestPositiveNumber}");
