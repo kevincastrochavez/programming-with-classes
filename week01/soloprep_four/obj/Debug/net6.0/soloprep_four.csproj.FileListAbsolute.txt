@@ -1,0 +1,15 @@
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/soloprep_four/bin/Debug/net6.0/soloprep_four
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/soloprep_four/bin/Debug/net6.0/soloprep_four.deps.json
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/soloprep_four/bin/Debug/net6.0/soloprep_four.runtimeconfig.json
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/soloprep_four/bin/Debug/net6.0/soloprep_four.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/soloprep_four/bin/Debug/net6.0/soloprep_four.pdb
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/soloprep_four/obj/Debug/net6.0/soloprep_four.csproj.AssemblyReference.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/soloprep_four/obj/Debug/net6.0/soloprep_four.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/soloprep_four/obj/Debug/net6.0/soloprep_four.AssemblyInfoInputs.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/soloprep_four/obj/Debug/net6.0/soloprep_four.AssemblyInfo.cs
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/soloprep_four/obj/Debug/net6.0/soloprep_four.csproj.CoreCompileInputs.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/soloprep_four/obj/Debug/net6.0/soloprep_four.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/soloprep_four/obj/Debug/net6.0/refint/soloprep_four.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/soloprep_four/obj/Debug/net6.0/soloprep_four.pdb
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/soloprep_four/obj/Debug/net6.0/soloprep_four.genruntimeconfig.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/soloprep_four/obj/Debug/net6.0/ref/soloprep_four.dll
