@@ -1,12 +1,10 @@
 ﻿    class Program
     {
         static char[] arr = { '0', '1', '2', '3', '4', '5', '6', '7', '8', '9' };
+        static int player = 1; 
+        static int playerDecision;
+        static int flag = 0;
 
-        static void Main(string[] args)
-        {
-                Board();
-        }
-        
         private static void Board()
         {
             Console.WriteLine("     |     |      ");
@@ -19,4 +17,44 @@
             Console.WriteLine("  {0}  |  {1}  |  {2}", arr[7], arr[8], arr[9]);
             Console.WriteLine("     |     |      ");
         }
-    }
+
+        static void Main(string[] args)
+        {
+            do
+            {
+                Console.WriteLine("Player1:X and Player2:O");
+                Console.WriteLine("");
+                if (player % 2 == 0)
+                {
+                    Console.WriteLine("Player 2 Chance");
+                }
+                else
+                {
+                    Console.WriteLine("Player 1 Chance");
+                }
+                Console.WriteLine("");
+                Board();
+                playerDecision = int.Parse(Console.ReadLine());
+
+                if (arr[playerDecision] != 'X' && arr[playerDecision] != 'O')
+                {
+                    if (player % 2 == 0)
+                    {
+                        arr[playerDecision] = 'O';
+                        player++;
+                    }
+                    else
+                    {
+                        arr[playerDecision] = 'X';
+                        player++;
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Position {0} is already marked with {1}", playerDecision, arr[playerDecision]);
+                    Console.WriteLine("");
+                }
+            }
+            while (flag != 1 && flag != -1);
+        }
+        }
