@@ -56,9 +56,17 @@
                 }
 
                 flag = CheckWin();
-                Console.WriteLine($"Flag: {flag}");
             }
             while (flag != 1 && flag != -1);
+            Board();
+            if (flag == 1)
+            {
+                Console.WriteLine("Player {0} has won", (player % 2) + 1);
+            }
+            else
+            {
+                Console.WriteLine("Draw");
+            }
         }
 
         private static int CheckWin()
