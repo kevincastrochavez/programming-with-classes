@@ -1,0 +1,15 @@
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quotes/bin/Debug/net6.0/quotes
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quotes/bin/Debug/net6.0/quotes.deps.json
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quotes/bin/Debug/net6.0/quotes.runtimeconfig.json
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quotes/bin/Debug/net6.0/quotes.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quotes/bin/Debug/net6.0/quotes.pdb
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quotes/obj/Debug/net6.0/quotes.csproj.AssemblyReference.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quotes/obj/Debug/net6.0/quotes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quotes/obj/Debug/net6.0/quotes.AssemblyInfoInputs.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quotes/obj/Debug/net6.0/quotes.AssemblyInfo.cs
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quotes/obj/Debug/net6.0/quotes.csproj.CoreCompileInputs.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quotes/obj/Debug/net6.0/quotes.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quotes/obj/Debug/net6.0/refint/quotes.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quotes/obj/Debug/net6.0/quotes.pdb
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quotes/obj/Debug/net6.0/quotes.genruntimeconfig.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/quotes/obj/Debug/net6.0/ref/quotes.dll

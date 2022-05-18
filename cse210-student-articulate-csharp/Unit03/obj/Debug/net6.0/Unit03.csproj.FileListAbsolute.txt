@@ -1,0 +1,15 @@
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/cse210-student-articulate-csharp/Unit03/bin/Debug/net6.0/Unit03
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/cse210-student-articulate-csharp/Unit03/bin/Debug/net6.0/Unit03.deps.json
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/cse210-student-articulate-csharp/Unit03/bin/Debug/net6.0/Unit03.runtimeconfig.json
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/cse210-student-articulate-csharp/Unit03/bin/Debug/net6.0/Unit03.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/cse210-student-articulate-csharp/Unit03/bin/Debug/net6.0/Unit03.pdb
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/cse210-student-articulate-csharp/Unit03/obj/Debug/net6.0/Unit03.csproj.AssemblyReference.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/cse210-student-articulate-csharp/Unit03/obj/Debug/net6.0/Unit03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/cse210-student-articulate-csharp/Unit03/obj/Debug/net6.0/Unit03.AssemblyInfoInputs.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/cse210-student-articulate-csharp/Unit03/obj/Debug/net6.0/Unit03.AssemblyInfo.cs
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/cse210-student-articulate-csharp/Unit03/obj/Debug/net6.0/Unit03.csproj.CoreCompileInputs.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/cse210-student-articulate-csharp/Unit03/obj/Debug/net6.0/Unit03.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/cse210-student-articulate-csharp/Unit03/obj/Debug/net6.0/refint/Unit03.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/cse210-student-articulate-csharp/Unit03/obj/Debug/net6.0/Unit03.pdb
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/cse210-student-articulate-csharp/Unit03/obj/Debug/net6.0/Unit03.genruntimeconfig.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/cse210-student-articulate-csharp/Unit03/obj/Debug/net6.0/ref/Unit03.dll

@@ -1,0 +1,15 @@
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/encapsulation/bin/Debug/net6.0/encapsulation
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/encapsulation/bin/Debug/net6.0/encapsulation.deps.json
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/encapsulation/bin/Debug/net6.0/encapsulation.runtimeconfig.json
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/encapsulation/bin/Debug/net6.0/encapsulation.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/encapsulation/bin/Debug/net6.0/encapsulation.pdb
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/encapsulation/obj/Debug/net6.0/encapsulation.csproj.AssemblyReference.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/encapsulation/obj/Debug/net6.0/encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/encapsulation/obj/Debug/net6.0/encapsulation.AssemblyInfoInputs.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/encapsulation/obj/Debug/net6.0/encapsulation.AssemblyInfo.cs
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/encapsulation/obj/Debug/net6.0/encapsulation.csproj.CoreCompileInputs.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/encapsulation/obj/Debug/net6.0/encapsulation.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/encapsulation/obj/Debug/net6.0/refint/encapsulation.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/encapsulation/obj/Debug/net6.0/encapsulation.pdb
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/encapsulation/obj/Debug/net6.0/encapsulation.genruntimeconfig.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/encapsulation/obj/Debug/net6.0/ref/encapsulation.dll

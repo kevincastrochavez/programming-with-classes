@@ -26,6 +26,7 @@ int number = 1;
 while (number != 0) {
     Console.Write("Enter number: ");
     int numberEntered = int.Parse(Console.ReadLine());
+    
     if (numberEntered != 0) {
         numbers.Add(numberEntered);
     }
@@ -56,6 +57,7 @@ Console.WriteLine($"The sum is {sum}");
 Console.WriteLine($"The average is {average}");
 Console.WriteLine($"The largest number is {largestNumber}");
 Console.WriteLine($"The smallest positive number is {smallestPositiveNumber}");
+
 Console.WriteLine("");
 Console.WriteLine("The sorted list is:");
 foreach (int item in numbers) {

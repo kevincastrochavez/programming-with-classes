@@ -1,0 +1,15 @@
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/cards/bin/Debug/net6.0/cards
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/cards/bin/Debug/net6.0/cards.deps.json
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/cards/bin/Debug/net6.0/cards.runtimeconfig.json
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/cards/bin/Debug/net6.0/cards.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/cards/bin/Debug/net6.0/cards.pdb
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/cards/obj/Debug/net6.0/cards.csproj.AssemblyReference.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/cards/obj/Debug/net6.0/cards.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/cards/obj/Debug/net6.0/cards.AssemblyInfoInputs.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/cards/obj/Debug/net6.0/cards.AssemblyInfo.cs
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/cards/obj/Debug/net6.0/cards.csproj.CoreCompileInputs.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/cards/obj/Debug/net6.0/cards.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/cards/obj/Debug/net6.0/refint/cards.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/cards/obj/Debug/net6.0/cards.pdb
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/cards/obj/Debug/net6.0/cards.genruntimeconfig.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/cards/obj/Debug/net6.0/ref/cards.dll
