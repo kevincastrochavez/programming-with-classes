@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9+TsZmGs5fYQqOBXxe0pamz+ZnU98RmIHLbZKCmfnSguuUHadLJKhTiEKzFWayos/DVDWg3XYv0x1cU/ksrcwg==",
+  "success": true,
+  "projectFilePath": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/cse210-student-articulate-csharp/Unit06/Unit06.csproj",
+  "expectedPackageFiles": [
+    "/Users/kevincastro/.nuget/packages/raylib-cs/3.7.0.1/raylib-cs.3.7.0.1.nupkg.sha512",
+    "/Users/kevincastro/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
